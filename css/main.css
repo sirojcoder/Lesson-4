@@ -1,0 +1,52 @@
+.navbar{
+background-color: rgb(40, 42, 53);
+height: 80px;
+text-align: center;
+font-size: 25px;
+word-spacing: 20px;
+}
+.navbar a{
+text-decoration: none;
+line-height: 80px;
+color: white;
+}
+.btn{
+background-color: #04aa6d;
+color: white;
+border-color:#04aa6d ;
+height:50px ;
+font-size: 18px;
+}
+.about{
+background-color: rgb(217, 238, 225);
+}
+.about p{
+line-height: 40px;
+text-indent: 20px;
+}
+.about .btn-2{
+    background-color: black;
+}
+.html-yourself *, .html-examples *{
+text-indent: 20px;
+line-height: 40px;
+}
+.title{
+    text-transform: uppercase;
+}
+h2{
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+img{
+    overflow-clip-margin:content-box;
+    overflow:clip;
+}
+.java-photo{
+    width: 500px;
+}
